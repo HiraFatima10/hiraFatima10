@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **AWS Solution Architect, React,**
 
-- 💬 Ask me about **Django, Python**
-
 - 📫 How to reach me **hiraarain100@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
