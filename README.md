@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **Learning Management System**
 
-- 🌱 I’m currently learning **AWS Solution Architect, React,**
-
 - 📫 How to reach me **hiraarain100@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
